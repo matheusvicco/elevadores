@@ -1,0 +1,1 @@
+Esse projeto foi solicitado pelo Cleiton Jorge para colocarmos em tablets em elevadores para mostrar noticias sobre o condominio/predio residente e ao mesmo tempo mostrar a data, hora e tempo do mesmo dia .
